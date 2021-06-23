@@ -1,4 +1,3 @@
-#Este proyecto esta enfocado como practica para los desarrolladores prinsipiantes.
-#Nombre: formulario de preguntas 
-#TOLSER 
-
+#Frequent questions
+It is a practice that we make a form with different questions.
+🤗💸😎😉☕👌
